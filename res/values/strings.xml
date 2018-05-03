@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NFC-WiFi</string>
+    <string name="btnSend">Send</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnStopConnection">Close Port</string>
+    <string name="tvMessage">Bu alana bir sayi giriniz</string>
+    <string name="NdefBekleme">NDEF mesajı bekleniyor</string>
+    <string name="btnDisplayFilesDir">Display Files Directory</string>
+    <string name="btnBrowse">Browse Pictures</string>
+    <string name="btnSendPicture">Send Selected Picture</string>
+    <string name="menu_settings">Settings</string>
+    <string name="WifiStatus">Wi-Fi Etkinlik Durumu</string>
+    <string name="ClientStatus">Client Etkinlik Durumu</string>
+    <string name="title_mainActivityWifi">WiFi Direct Bağlantı</string>
+    <string name="btnWifi">WiFi Direct Connection</string>
+    <string name="btnReceiveFile">Receive</string>
+    <string name="btnSendFile">Send</string>
+    <string name="MainActivityTitle">NFC İçin Cihazları Birleştirin</string>
+    <string name="MainActivityWifiTitle">Wi-Fi Direct bağlantısı ve IP adresi için cihazları birleştirin</string>
+    <string name="NFCShare">Galeriden foroğraf seçtikten sonra cihazları yakınlaştırın.</string>
+</resources>
